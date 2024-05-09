@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/krestik.png</file>
+        <file>img/nolik.png</file>
+        <file>img/cross_small.png</file>
+        <file>img/zero_small.png</file>
+    </qresource>
+</RCC>
