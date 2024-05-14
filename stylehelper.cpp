@@ -10,18 +10,21 @@ QString stylehelper::GetMainWidgetStyle() {
 }
 
 QString stylehelper::GetPlayButtonStyle() {
-    return "QPushButton {"
-                "background-color: #6cacff;"
-                "border: 3px solid #ccc;"
+    return  "QWidget {"
+                "background: rgb(157, 161, 157)"
             "}"
-            "QPushButton::hover {"
-                "background-color: #4cacfc;"
-                "border: 1px solid black;"
-           "}"
-           "QPushButton::pressed {"
-                "background-color: #4cacfc;"
-                "border: none;"
-           "}";
+            "QPushButton {"
+                    "background-color: #6cacff;"
+                    "border: 3px solid #ccc;"
+                "}"
+                "QPushButton::hover {"
+                    "background-color: #4cacfc;"
+                    "border: 1px solid black;"
+               "}"
+               "QPushButton::pressed {"
+                    "background-color: #4cacfc;"
+                    "border: none;"
+               "}";
 
 }
 
@@ -84,3 +87,78 @@ QString stylehelper::GetNullButtonPassiveStyle(){
            "border-bottom-right-radius: 5px;"
            "}";
 }
+
+
+QString stylehelper::GetEmptyButtonStyle() {
+    return "QPushButton {"
+    "background-color: #6cacff;"
+    "border: 3px solid #ccc;"
+    "}"
+    "QPushButton::hover {"
+    "background-color: #4cacfc;"
+    "border: 1px solid black;"
+    "}"
+    "QPushButton::pressed {"
+    "background-color: #4cacfc;"
+    "border: none;"
+    "}";
+}
+
+QString stylehelper::GetXButtonStyle() {
+    return "QPushButton {"
+                "background: #6cacff url(:/img/krestik.png) no-repeat center center;"
+           "}";
+}
+
+QString stylehelper::GetOButtonStyle() {
+    return "QPushButton {"
+           "background: #6cacff url(:/img/nolik.png) no-repeat center center;"
+           "}";
+}
+
+QString stylehelper::GetXWinButtonStyle() {
+    return "QPushButton {"
+           "background: rgb(10, 250, 10) url(:/img/krestik.png) no-repeat center center;"
+           "}";
+}
+
+QString stylehelper::GetXLossButtonStyle() {
+    return "QPushButton {"
+           "background: rgb(255, 0, 40) url(:/img/krestik.png) no-repeat center center;"
+           "}";
+}
+
+QString stylehelper::GetOWinButtonStyle() {
+    return "QPushButton {"
+           "background: rgb(10, 250, 10) url(:/img/nolik.png) no-repeat center center;"
+           "}";
+}
+
+QString stylehelper::GetOLossButtonStyle() {
+    return "QPushButton {"
+           "background: rgb(255, 0, 40) url(:/img/nolik.png) no-repeat center center;"
+           "}";
+}
+
+QString stylehelper::GetNormLabel()
+{
+    return "QLabel {"
+                "background-color: none;"
+           "}";
+}
+
+QString stylehelper::GetWinLabel()
+{
+    return "QLabel {"
+                "background-color: green;"
+           "}";
+}
+
+QString stylehelper::GetLossLabel()
+{
+    return "QLabel {"
+                "background-color: red;"
+           "}";
+}
+
+

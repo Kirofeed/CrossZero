@@ -1,82 +1,87 @@
 # ninja log v5
-6	153	7369020701624274	TikTakToe_autogen/timestamp	78950237f5447e60
-2784	3010	7369020730497444	TikTakToe.exe	1f1e344e4f6181e1
-6	153	7369020701624274	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-6	153	7369020701624274	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
-165	2784	7369020728286435	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
-6	153	7369020701624274	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-1136	3509	7368950406227511	CMakeFiles/TikTakToe.dir/TikTakToe_autogen/mocs_compilation.cpp.obj	ce777decd6a8d0d6
-1145	3612	7368950407255208	CMakeFiles/TikTakToe.dir/main.cpp.obj	563f6d257029ff20
-179	242	7368928033954567	TikTakToe_autogen/EWIEGA46WW/qrc_res.cpp	214ab8cdf3653439
-179	242	7368928033954567	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/EWIEGA46WW/qrc_res.cpp	214ab8cdf3653439
-246	317	7368928034759657	CMakeFiles/TikTakToe.dir/TikTakToe_autogen/EWIEGA46WW/qrc_res.cpp.obj	b867442ceee4af8a
-163	1528	7369020714929672	CMakeFiles/TikTakToe.dir/stylehelper.cpp.obj	27376cbc2bdb36e6
-7	147	7369027104638283	TikTakToe_autogen/timestamp	78950237f5447e60
-7	147	7369027104638283	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-7	147	7369027104638283	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
-7	147	7369027104638283	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+2644	2856	7374215136526541	TikTakToe.exe	1f1e344e4f6181e1
+6	115	7374215109152739	TikTakToe_autogen/timestamp	78950237f5447e60
+6	115	7374215109152739	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+126	2643	7374215134451098	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
+6	115	7374215109152739	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
+6	115	7374215109152739	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+785	3695	7374209277194762	CMakeFiles/TikTakToe.dir/TikTakToe_autogen/mocs_compilation.cpp.obj	ce777decd6a8d0d6
+784	3372	7374209273897430	CMakeFiles/TikTakToe.dir/main.cpp.obj	563f6d257029ff20
 157	207	7369027105213382	TikTakToe_autogen/EWIEGA46WW/qrc_res.cpp	214ab8cdf3653439
 157	207	7369027105213382	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/EWIEGA46WW/qrc_res.cpp	214ab8cdf3653439
 207	282	7369027106018594	CMakeFiles/TikTakToe.dir/TikTakToe_autogen/EWIEGA46WW/qrc_res.cpp.obj	b867442ceee4af8a
-210	1519	7369027118384744	CMakeFiles/TikTakToe.dir/stylehelper.cpp.obj	27376cbc2bdb36e6
-209	2492	7369027128092912	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
-2493	2678	7369027129930430	TikTakToe.exe	1f1e344e4f6181e1
-7	292	7369030518846922	TikTakToe_autogen/timestamp	78950237f5447e60
-7	292	7369030518846922	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-7	292	7369030518846922	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
-7	292	7369030518846922	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-303	1781	7369030533730060	CMakeFiles/TikTakToe.dir/stylehelper.cpp.obj	27376cbc2bdb36e6
-305	2887	7369030544810580	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
-2887	3085	7369030546742637	TikTakToe.exe	1f1e344e4f6181e1
-8	131	7369030858336361	TikTakToe_autogen/timestamp	78950237f5447e60
-8	131	7369030858336361	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-8	131	7369030858336361	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
-8	131	7369030858336361	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-140	2024	7369030877258948	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
-2024	2205	7369030879040792	TikTakToe.exe	1f1e344e4f6181e1
-9	874	7369034861530234	TikTakToe_autogen/timestamp	78950237f5447e60
-9	874	7369034861530234	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-9	874	7369034861530234	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
-9	874	7369034861530234	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-876	3525	7369034888593379	CMakeFiles/TikTakToe.dir/TikTakToe_autogen/mocs_compilation.cpp.obj	ce777decd6a8d0d6
-874	3587	7369034889213378	CMakeFiles/TikTakToe.dir/main.cpp.obj	563f6d257029ff20
-878	3788	7369034891213878	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
-3788	4003	7369034893334448	TikTakToe.exe	1f1e344e4f6181e1
-7	116	7369505299061214	TikTakToe_autogen/timestamp	78950237f5447e60
-7	116	7369505299061214	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-7	116	7369505299061214	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
-7	116	7369505299061214	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-126	1465	7369505312562782	CMakeFiles/TikTakToe.dir/stylehelper.cpp.obj	27376cbc2bdb36e6
-127	2633	7369505324233671	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
-2633	2847	7369505326338451	TikTakToe.exe	1f1e344e4f6181e1
-7	746	7369505458318696	TikTakToe_autogen/timestamp	78950237f5447e60
-7	746	7369505458318696	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-7	746	7369505458318696	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
-7	746	7369505458318696	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-751	2319	7369505474506726	CMakeFiles/TikTakToe.dir/stylehelper.cpp.obj	27376cbc2bdb36e6
-6	688	7369505593770704	TikTakToe_autogen/timestamp	78950237f5447e60
-6	688	7369505593770704	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-6	688	7369505593770704	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
-6	688	7369505593770704	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-689	2970	7369505617102904	CMakeFiles/TikTakToe.dir/TikTakToe_autogen/mocs_compilation.cpp.obj	ce777decd6a8d0d6
-691	3096	7369505618358165	CMakeFiles/TikTakToe.dir/main.cpp.obj	563f6d257029ff20
-693	3251	7369505619898740	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
-3251	3457	7369505621917370	TikTakToe.exe	1f1e344e4f6181e1
-8	663	7369505754563429	TikTakToe_autogen/timestamp	78950237f5447e60
-8	663	7369505754563429	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-8	663	7369505754563429	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
-8	663	7369505754563429	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-7	688	7369505957866866	TikTakToe_autogen/timestamp	78950237f5447e60
-7	688	7369505957866866	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-7	688	7369505957866866	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
-7	688	7369505957866866	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-688	2980	7369505981332009	CMakeFiles/TikTakToe.dir/main.cpp.obj	563f6d257029ff20
-690	3069	7369505982217362	CMakeFiles/TikTakToe.dir/TikTakToe_autogen/mocs_compilation.cpp.obj	ce777decd6a8d0d6
-692	3393	7369505985463051	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
-3393	3600	7369505987472522	TikTakToe.exe	1f1e344e4f6181e1
-7	146	7369506183630351	TikTakToe_autogen/timestamp	78950237f5447e60
-7	146	7369506183630351	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-7	146	7369506183630351	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
-7	146	7369506183630351	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
-157	2561	7369506207837933	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
-2562	2759	7369506209787387	TikTakToe.exe	1f1e344e4f6181e1
+787	2946	7374209269703119	CMakeFiles/TikTakToe.dir/stylehelper.cpp.obj	27376cbc2bdb36e6
+8	121	7374217032417799	TikTakToe_autogen/timestamp	78950237f5447e60
+8	121	7374217032417799	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+8	121	7374217032417799	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
+8	121	7374217032417799	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+131	2783	7374217059054021	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
+2784	3001	7374217061192082	TikTakToe.exe	1f1e344e4f6181e1
+7	134	7374218231419880	TikTakToe_autogen/timestamp	78950237f5447e60
+7	134	7374218231419880	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+7	134	7374218231419880	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
+7	134	7374218231419880	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+145	2623	7374218256316243	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
+2623	2830	7374218258342819	TikTakToe.exe	1f1e344e4f6181e1
+7	139	7374218664586474	TikTakToe_autogen/timestamp	78950237f5447e60
+7	139	7374218664586474	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+7	139	7374218664586474	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
+7	139	7374218664586474	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+152	2763	7374218690838781	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
+2763	2973	7374218692895462	TikTakToe.exe	1f1e344e4f6181e1
+7	599	7374230610643637	TikTakToe_autogen/timestamp	78950237f5447e60
+7	599	7374230610643637	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+7	599	7374230610643637	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
+7	599	7374230610643637	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+599	3182	7374230636977876	CMakeFiles/TikTakToe.dir/TikTakToe_autogen/mocs_compilation.cpp.obj	ce777decd6a8d0d6
+601	3335	7374230638483163	CMakeFiles/TikTakToe.dir/main.cpp.obj	563f6d257029ff20
+603	3602	7374230641169047	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
+3602	3826	7374230643369716	TikTakToe.exe	1f1e344e4f6181e1
+7	122	7374231628154952	TikTakToe_autogen/timestamp	78950237f5447e60
+7	122	7374231628154952	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+7	122	7374231628154952	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
+7	122	7374231628154952	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+134	2846	7374231655406341	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
+2847	3067	7374231657549627	TikTakToe.exe	1f1e344e4f6181e1
+8	128	7374232629389996	TikTakToe_autogen/timestamp	78950237f5447e60
+8	128	7374232629389996	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+8	128	7374232629389996	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
+8	128	7374232629389996	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+138	2508	7374232653206101	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
+2508	2720	7374232655275640	TikTakToe.exe	1f1e344e4f6181e1
+7	138	7374233395464052	TikTakToe_autogen/timestamp	78950237f5447e60
+7	138	7374233395464052	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+7	138	7374233395464052	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
+7	138	7374233395464052	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+149	2714	7374233421213467	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
+2714	2929	7374233423323864	TikTakToe.exe	1f1e344e4f6181e1
+8	273	7374233941727707	TikTakToe_autogen/timestamp	78950237f5447e60
+8	273	7374233941727707	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+8	273	7374233941727707	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
+8	273	7374233941727707	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+284	2851	7374233967544198	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
+2851	3060	7374233969595330	TikTakToe.exe	1f1e344e4f6181e1
+7	131	7374235211641562	TikTakToe_autogen/timestamp	78950237f5447e60
+7	131	7374235211641562	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+7	131	7374235211641562	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
+7	131	7374235211641562	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+142	2666	7374235236997188	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
+2667	2876	7374235239068052	TikTakToe.exe	1f1e344e4f6181e1
+8	135	7374236287231887	TikTakToe_autogen/timestamp	78950237f5447e60
+8	135	7374236287231887	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+8	135	7374236287231887	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
+8	135	7374236287231887	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+146	2731	7374236313218828	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
+2732	2939	7374236315243395	TikTakToe.exe	1f1e344e4f6181e1
+8	120	7374237098368563	TikTakToe_autogen/timestamp	78950237f5447e60
+8	120	7374237098368563	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+8	120	7374237098368563	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
+8	120	7374237098368563	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+130	2658	7374237123741670	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
+2659	2866	7374237125794568	TikTakToe.exe	1f1e344e4f6181e1
+8	130	7374239393180503	TikTakToe_autogen/timestamp	78950237f5447e60
+8	130	7374239393180503	TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+8	130	7374239393180503	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/timestamp	78950237f5447e60
+8	130	7374239393180503	C:/Users/drozh/proga/qt projects/TikTakToe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/TikTakToe_autogen/mocs_compilation.cpp	78950237f5447e60
+142	2455	7374239416449697	CMakeFiles/TikTakToe.dir/mainwindow.cpp.obj	1715d0df95baeda5
+2455	2659	7374239418448203	TikTakToe.exe	1f1e344e4f6181e1

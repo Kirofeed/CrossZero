@@ -23,7 +23,27 @@ private slots:
 
     void on_oButton_clicked();
 
+    void on_StartButton_clicked();
+
+    void onGameButtonClicked();
+
+    void onCompSlot();
+
 private:
+    void ChangeButtonStyle(int row, int colomn, QString style);
+    void SetStartButtonStyle();
+    void start();
+    void SetButtonProperties();
+    void LockPlayer();
+    void CompStep();
+    void checkWInLoss(char LastSign);
+    char arr[3][3];
+    char player = 'X';
+    int steps;
+    bool game;
+    bool playerLocked = true;
+    bool stop = false;
+    QTimer* timer;
     Ui::MainWindow *ui;
     void ChangeCrossNullButton(bool num);
 };
